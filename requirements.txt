@@ -1,0 +1,6 @@
+mysql-connector-python==8.0.25
+pymysql==1.0.2
+pandas==1.2.4
+matplotlib=3.3.4
+numpy==1.20.1
+sqlalchemy==1.4.7
